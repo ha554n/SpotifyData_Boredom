@@ -1,0 +1,66 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Popularity,Parent Genres
+Jain,Zanaka (Deluxe),Dynabeat,5lZoZuFYQpsRy8D5iD1MG2,0.911,0.613,2,-4.63,1,0.0476,0,0.0196,0.575,110.021,172573,4,33,Pop
+Louie Zong,Thumbnail,Thumbnail,315nF0bGYJxNcSI6S3Y8aN,0.84,0.334,0,-13.54,1,0.0541,0.000104,0.128,0.545,105.003,185290,4,46,"Hip Hop, Rock"
+Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4,89,Pop
+Kid Rock,Rock n Roll Jesus,All Summer Long,5rX6C5QVvvZB7XckETNych,0.7,0.864,7,-3.629,1,0.0283,0,0.0956,0.887,102.997,297587,4,74,Metal
+Taylor Swift,1989,Shake It Off,5xTtaWoae3wi06K5WfVUUH,0.647,0.785,7,-5.414,1,0.165,0,0.148,0.943,160.015,219200,4,73,Pop
+Drake,Nothing Was The Same,"Hold On, We're Going Home",2aSC2xhRxOLiiZZVjhbylH,0.777,0.414,6,-7.44,0,0.0946,2.73e-05,0.0724,0.287,100.002,227880,4,71,"R&B, Hip Hop, Pop"
+Flume,Skin,Say It (feat. Tove Lo),5aOpzm8W8zysk4asB9hxJw,0.598,0.532,3,-6.833,0,0.0295,3.22e-06,0.0617,0.261,74.963,262521,4,60,"Dance/Electronic, Pop"
+Tom Grennan,Lighting Matches (Deluxe),Found What I've Been Looking For,4Gw1SXoN1MlAmdM3J1NjmR,0.623,0.829,3,-4.613,0,0.0286,0,0.0762,0.779,107.067,191933,4,59,"Pop, Dance/Electronic"
+John Fred and His Playboy Band,Agnes English,Judy in Disguise (with Glasses),2p7mA5rSVwIaoNslO9zylp,0.607,0.501,8,-10.201,1,0.0372,0.185,0.0529,0.891,81.365,174207,4,41,Rock
+Paper Lace,First Edition,Games People Play,0h9k0XwL222X1WrBR2Ie7G,0.571,0.821,1,-11.262,1,0.0647,0,0.0659,0.813,88.199,224078,4,1,Pop
+Peter Schilling,The Different Story (World Of Lust And Crime),Major Tom - Coming Home,709ffFK4o4MtG1NKoLvOma,0.787,0.42,4,-14.32,0,0.0645,0.164,0.169,0.838,161.247,301373,4,65,"Pop, Rock"
+Jeff Rosenstock,We Cool?,Hey Allison!,5iosyLp4YyJjvNNh0fYRVo,0.368,0.965,9,-4.25,1,0.0764,0.00741,0.698,0.416,114.507,111705,4,31,"Rock, Folk/Acoustic"
+Peach Pit,You and Your Friends,Thursday,5ouGWMPxx4Lv8vUWpfGcZT,0.531,0.564,10,-10.401,1,0.0544,0.00874,0.182,0.355,121.977,183933,4,41,Rock
+PUP,The Dream Is Over,Can't Win,5DrK7LZLgtqaMDsAFxq4JC,0.292,0.966,6,-2.457,0,0.0718,0.0084,0.122,0.358,167.837,187053,4,35,"Rock, Pop"
+Maggie Rogers,Heard It In A Past Life,Light On,6UnCGAEmrbGIOSmGRZQ1M2,0.657,0.569,2,-6.287,1,0.0542,1.38e-05,0.126,0.399,102.054,233880,4,67,"Rock, Pop"
+HAIM,Women In Music Pt. III,Now I'm In It - Bonus Track,5T8OICEqdqbx8Uz7L5abkH,0.717,0.707,4,-9.495,1,0.0628,0.000117,0.161,0.206,105.014,204280,4,57,"Pop, Rock, Dance/Electronic"
+BENEE,STELLA & STEVE,Supalonely,4nK5YrxbMGZstTLbvj6Gxw,0.863,0.631,7,-4.689,1,0.0534,3.04e-05,0.123,0.817,128.977,223480,4,72,"Pop, Rock"
+Steve Lacy,Bad Habit,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,0.686,0.507,1,-7.097,1,0.0357,7.51e-05,0.383,0.69,168.955,232115,4,90,R&B
+Macklemore & Ryan Lewis,The Heist,Same Love (feat. Mary Lambert),01uqI4H13Gsd8Lyl1EYd8H,0.688,0.473,8,-9.059,1,0.167,4.46e-05,0.104,0.299,84.958,318525,4,64,"Pop, Folk/Acoustic, Hip Hop"
+Britney Spears,The Essential Britney Spears,3,2d7fRuDlFZfKIoSuf8bhGv,0.701,0.72,5,-1.948,0,0.0475,0,0.199,0.761,134.962,205533,4,50,Pop
+Namika,Que Walou,Je ne parle pas français,4eJqzRN15DabYK4byfWghD,0.767,0.516,0,-9.466,0,0.0619,0,0.503,0.786,102.013,180933,4,51,Pop
+ELVIS (Original Motion Picture Soundtrack),ELVIS (Original Motion Picture Soundtrack),If I Can Dream,3C6pSIVeBKIbSpCFtaw1r8,0.325,0.715,7,-7.744,1,0.0368,2.79e-05,0.0987,0.282,93.914,191840,3,64,Rock
+Creedence Clearwater Revival,Pendulum (Expanded Edition),Have You Ever Seen The Rain,2LawezPeJhN4AWuSB0GtAU,0.741,0.697,0,-7.028,1,0.0277,2.28e-05,0.133,0.774,116.109,160133,4,82,"Rock, Country"
+The Beatles,Let It Be (Remastered),Let It Be - Remastered 2009,7iN1s7xHE4ifF5povM6A48,0.443,0.403,0,-8.339,1,0.0322,0,0.111,0.41,143.462,243027,4,77,"Folk/Acoustic, Rock"
+Smino,blkswn,Glass Flows,06BLANboqUEnvBHJH0aViQ,0.487,0.517,3,-9.828,0,0.358,0,0.0955,0.944,90.738,188209,4,50,"R&B, Pop, Hip Hop"
+THEY.,The Amanda Tape,On and On,4SzsM9m2DRmh1PrDstow8Y,0.565,0.821,1,-5.074,1,0.0388,4.31e-05,0.191,0.492,87.941,232480,4,40,"R&B, Hip Hop"
+Fivio Foreign,City of Gods,City of Gods,4huBDGP4I3S0pYI0EaRN1c,0.474,0.801,8,-5.978,0,0.375,0,0.322,0.497,147.356,256000,4,71,"Hip Hop, R&B, Pop"
+Mayday Parade,A Lesson In Romantics,Jersey,6gxupt6imt0qIdbE8e356n,0.378,0.892,10,-4.371,0,0.0807,0,0.526,0.325,162.024,209453,4,55,"Pop, Rock"
+PVRIS,"All We Know Of Heaven, All We Need Of Hell",What's Wrong,6U82eC2OHyiQM4Wr5Bejar,0.502,0.945,1,-3.191,1,0.103,0.00585,0.0897,0.326,100.988,298917,4,45,"Rock, Pop"
+Lana Del Rey,Young And Beautiful,Young And Beautiful,2nMeu6UenVvwUktBCpLMK9,0.324,0.416,11,-8.92,0,0.0368,3.69e-05,0.11,0.151,113.986,236053,4,82,Pop
+Camila Cabello,Don't Go Yet,Don't Go Yet,1058fW9H3fZA6QjYCdOBad,0.666,0.796,10,-6.967,0,0.103,0,0.0442,0.61,110.108,164842,4,77,Pop
+Spanish Folklore,Suspiros de España - Pasodobles of Spain,España Cañí (Pasodoble),5GOlMlr4m9lhOgI3KCWy2y,0.436,0.334,7,-13.382,1,0.0331,0.607,0.0736,0.4,112.874,134213,4,39,Classical
+Don McLean,American Pie,Vincent,0VNzEY1G4GLqcNx5qaaTl6,0.419,0.085,7,-19.387,1,0.0362,5.33e-06,0.34,0.458,91.509,243493,3,68,"Easy listening, Rock, Folk/Acoustic"
+Pearl Jam,Ten,Alive,1L94M3KIu7QluZe63g64rv,0.284,0.875,11,-6.069,0,0.0422,0.000461,0.402,0.595,75.009,340907,4,75,Rock
+The White Stripes,White Blood Cells,Dead Leaves and the Dirty Ground,2ewjgFhHDTE8BkV8kzpiX2,0.305,0.628,9,-3.573,0,0.0348,3.66e-05,0.0899,0.428,80.389,182168,4,57,"Rock, Blues"
+The Mars Volta,Deloused in the Comatorium,Roulette Dares (The Haunt Of),32Uk6r7BFqNfpUVOFuQZFk,0.2,0.923,9,-5.075,0,0.267,0.00789,0.278,0.24,160.092,450627,3,48,"Metal, Rock, Country"
+Raffaella,NASA's Fake,NASA's Fake,4c2z1wyBQOUSOysKADXc5N,0.812,0.404,11,-9.648,0,0.244,0.00113,0.0712,0.414,160.018,210111,4,37,
+Kesha,Rainbow,Praying,0jdny0dhgjUwoIp5GkqEaA,0.543,0.39,10,-7.202,1,0.0322,0,0.111,0.303,73.415,230267,4,70,Pop
+All Time Low,"Wake Up, Sunshine",Monsters (feat. blackbear),0tyR7Bu9P086aWBFZ4QJoo,0.369,0.845,0,-3.449,0,0.0611,0,0.416,0.782,78.532,174068,4,71,"Pop, Rock, Hip Hop"
+Point North,Brand New Vision,Heartbeat,5bJrJJGEzyjXfh20J0n3Qs,0.64,0.929,5,-3.692,1,0.0457,0,0.0716,0.617,108.006,191700,4,46,Rock
+Bring Me The Horizon,Sempiternal (Expanded Edition),Shadow Moses,68osIGtVjM7QWVe6pazLHj,0.456,0.985,6,-2.949,1,0.207,0.00368,0.103,0.183,143.006,243320,4,67,"Metal, Rock"
+Electric Callboy,Pump It,Pump It,3iXNlPQNYPrtimAEM49PsG,0.448,0.896,8,-6.533,1,0.0593,0,0.375,0.437,174.073,172759,4,65,Metal
+Pain,Cynic Paradise,I'm Going In,1RDPvPAkNdnRC7Xwy3J2w2,0.387,0.971,0,-4.363,1,0.0569,0.932,0.135,0.22,80.012,196347,4,40,Metal
+Equilibrium,Renegades,Renegades - A Lost Generation,2mX8yyI3zLICo2Xw3sXKJc,0.465,0.957,4,-5.959,0,0.081,0.629,0.254,0.309,113.075,272267,4,46,Metal
+Eye of the Enemy,The Vengeance Paradox,The Shift,33HBf1US9fU6QAEINy9JRY,0.363,0.985,11,-5.701,0,0.0836,0.718,0.0775,0.0666,114.564,370400,3,37,Metal
+Various Artists,Frozen (Original Motion Picture Soundtrack / Deluxe Edition),"Let It Go - From ""Frozen""/Soundtrack Version",0qcr5FMsEO85NAQjrlDRKo,0.543,0.485,8,-6.85,1,0.0305,0,0.12,0.371,136.961,223840,4,74,Easy listening
+Tones And I,Dance Monkey (Stripped Back) / Dance Monkey,Dance Monkey,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0,0.0924,0.000104,0.149,0.513,98.027,209438,4,79,Pop
+The Beths,Jump Rope Gazers,Acrid,0WMlDL7xQIXV2r2wAPfQTa,0.459,0.589,9,-11.54,1,0.0381,0.000324,0.0674,0.337,131.819,246732,4,32,Rock
+Bishop Allen,The Broken String,The News from Your Bed,4yjYYXPnp5LGzLRY3VbMCC,0.738,0.463,7,-7.172,1,0.0504,0,0.154,0.761,132.094,165280,4,23,Folk/Acoustic
+CAKE,Motorcade of Generosity,Mr. Mastodon Farm,5TYHzFAQp3IBeWqRIBIDjJ,0.638,0.551,9,-9.386,1,0.078,0,0.104,0.899,171.041,327600,4,37,"Rock, Pop, Metal"
+The Smiths,Louder Than Bombs,Heaven Knows I'm Miserable Now - 2011 Remaster,1H5N26VqHR4JhuaRKY2I0u,0.609,0.759,6,-4.862,1,0.0276,0,0.183,0.774,114.045,215760,4,68,Rock
+Car Seat Headrest,MADLO: Influences,Running Up That Hill,4p4kNjeFfBZ7OExxY7SX1V,0.704,0.603,9,-10.501,0,0.0334,0.196,0.0656,0.668,111.98,390000,4,52,Rock
+Lord Huron,Vide Noir,Emerald Star,2G9rtsX5GNAmpB114xYkM9,0.278,0.632,11,-4.943,0,0.0359,0.447,0.179,0.155,201.987,278533,3,44,Folk/Acoustic
+Tyrävyö,Helminauha,Ajetaan tandemilla,6w69nqXMAyHsKmdkt3R8uG,0.363,0.927,11,-4.412,0,0.0392,0.000299,0.096,0.724,187.969,233467,4,36,"Pop, Metal, World/Traditional"
+Daft Punk,Human After All,Technologic,0LSLM0zuWRkEYemF7JcfEE,0.812,0.516,9,-6.963,1,0.224,1.09e-05,0.0991,0.633,127.498,284280,4,50,"Hip Hop, Dance/Electronic"
+MISSIO,The Darker The Weather // The Better The Man,Dizzy,5MxLy1RM6bGy1TK1eba4Ts,0.555,0.475,5,-6.6,0,0.0323,1.33e-05,0.0853,0.432,62.488,209360,3,59,"Pop, Rock"
+grandson,a modern tragedy vol. 1,Stick Up,5ZSKZ0wMdlMi4bQ3XZXXsp,0.31,0.932,11,-4.764,0,0.262,3.71e-06,0.349,0.304,135.944,222560,4,55,Rock
+Bebe Rexha,I'm Gonna Show You Crazy,I'm Gonna Show You Crazy,5LtNBCM2ve0SxP0dlRVvMu,0.474,0.537,2,-6.77,1,0.0649,0,0.316,0.335,90.103,207775,4,62,Pop
+Nico Collins,Hate Me,Hate Me,5FgdPkPCffPktT5qnWls8Y,0.644,0.928,6,-2.966,0,0.0939,0,0.0793,0.571,95.059,189910,4,63,Pop
+Kansas,Leftoverture (Expanded Edition),Carry on Wayward Son,4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,1,0.032,8.88e-05,0.446,0.793,126.755,323000,4,76,"Rock, Country"
+Exodus,Fabulous Disaster,The Toxic Waltz,5ZOOjqoCaUydmo8bxSdosj,0.262,0.988,11,-4.922,0,0.253,0.897,0.132,0.227,91.319,290280,4,53,"Metal, Rock"
+The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits,1979,3h5zik31hTTat9jmpCZZNC,0.768,0.782,3,-10.231,1,0.033,0.683,0.0802,0.964,127.042,263573,4,56,"Metal, Rock, Pop"
+Rob Zombie,Hellbilly Deluxe,Dragula,6Nm8h73ycDG2saCnZV8poF,0.591,0.963,0,-6.489,0,0.0531,0.000107,0.0781,0.609,125.03,222827,4,74,"Metal, Rock"
+Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),Paralyzer,28IEbk5a7twNTbUEvWslUb,0.644,0.939,11,-3.486,0,0.0456,0,0.233,0.861,106.031,208107,4,75,"Metal, Rock"
+Foo Fighters,Concrete and Gold,The Sky Is A Neighborhood,3kdMzXOcrDIdSWLdONHNK5,0.357,0.549,11,-7.843,0,0.0698,0.00485,0.22,0.531,130.749,244573,4,63,"Metal, Rock"

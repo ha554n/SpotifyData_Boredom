@@ -1,0 +1,61 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,subnames,frequency,Popularity,Parent Genres
+SOPHIE,HARD,HARD,64LJZpSz4VxvNDcyx1762M,0.779,0.728,5,-5.962,0,0.227,0.0854,0.108,0.552,83.986,174368,4,sub 0,3+ a week,42,Pop
+Tessa Violet,Bad Ideas,Bad Ideas,41K8qlXVHE5cDv7eifdk4G,0.786,0.523,0,-7.583,0,0.21,0.000671,0.0978,0.379,80.042,179173,4,sub 0,3+ a week,53,Rock
+SOPHIE,BIPP,BIPP,5HuOQHBDbb0UJjEE2fw6Uq,0.765,0.703,2,-3.883,1,0.166,0.0843,0.127,0.335,82.681,224143,5,sub 0,3+ a week,45,Pop
+Frank Sinatra,Nothing But The Best (Remastered),That's Life - Remastered 2008,4dt6XKr0xKdPzjFhwB8dBm,0.392,0.632,4,-6.633,0,0.0529,0,0.457,0.556,114.917,187227,4,sub 2,Multiple Times a day,58,Easy listening
+Badfinger,No Matter What You Are,Baby Blue,48cvvKFEwOyvSmeObYMVZa,0.566,0.493,11,-15.845,1,0.0309,7.85e-06,0.0624,0.608,125.011,221160,4,sub 2,Multiple Times a day,23,"Rock, Folk/Acoustic, Blues, Country"
+The Beatles,Let It Be (Remastered),Across The Universe - Remastered 2009,4dkoqJrP0L8FXftrMZongF,0.257,0.412,1,-11.788,1,0.0287,8.68e-05,0.0702,0.858,152.126,228133,4,sub 2,Multiple Times a day,65,"Folk/Acoustic, Rock"
+Giveon,Give Or Take,july 16th,41CJn3Q0pJwcNHbF8RM2QE,0.373,0.213,7,-13.034,1,0.0356,2.02e-06,0.524,0.403,79.44,110716,4,sub 3,Multiple Times a day,65,"Pop, R&B"
+Justice,Woman,Stop,0WQbCSbujb6bSPVENrWYrl,0.525,0.634,1,-5.866,1,0.037,0.000106,0.113,0.661,170.065,297316,4,sub 3,Every Day,39,"Rock, Dance/Electronic"
+Nas,Illmatic,N.Y. State of Mind,0trHOzAhNpGCsGBEu7dOJo,0.665,0.91,6,-4.682,0,0.223,0,0.227,0.887,84.099,293973,4,sub 3,Every Day,70,Hip Hop
+Joe Henry,Civilians,Our Song,7cxyVmzrnEh4hXF9Zgz9pZ,0.552,0.282,7,-10.104,1,0.0291,0,0.114,0.268,103.068,379547,4,sub 4,3+ a week,32,Country
+Bill Evans,The Bill Evans Album,Waltz for Debby,1tSzm6vk58gS0NZwYS18W0,0.388,0.276,5,-17.168,1,0.0374,0.915,0.0784,0.191,92.415,461493,4,sub 4,3+ a week,40,Jazz
+Pepper Adams,Encounter!,Verdandi,4bSbVhR1fuhLEkzr7XvbIW,0.437,0.784,5,-12.403,0,0.051,0.0404,0.0812,0.315,122.447,243560,3,sub 4,once a week,7,Jazz
+My Chemical Romance,Danger Days: The True Lives of the Fabulous Killjoys,The Kids from Yesterday,5A0OekqQy0rb1pcsf4k0J7,0.553,0.897,2,-4.297,1,0.0444,0.0225,0.0972,0.361,120.007,324973,4,sub 5,Every Day,53,Rock
+PVRIS,"All We Know Of Heaven, All We Need Of Hell",Half,1GaRkv5LKUjTGbDBy9ZbB6,0.476,0.931,4,-4.092,0,0.0493,0.00222,0.174,0.11,130.912,269552,4,sub 5,Multiple Times a day,41,"Rock, Pop"
+Glass Animals,Heat Waves,Heat Waves,6CDzDgIUqeDY5g8ujExx2f,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,sub 5,3+ a week,85,"Pop, Rock"
+Jax,Like My Father,Like My Father,5YVmHTAsdWnoanWXB7AwZX,0.492,0.224,5,-8.098,1,0.0493,0,0.142,0.424,93.039,183429,4,sub 6,Every Day,71,
+Ed Sheeran,÷ (Deluxe),Nancy Mulligan,35QZaWQRkmnAVqBF1TLCxQ,0.68,0.852,7,-4.35,1,0.0349,0,0.0866,0.858,101.993,179787,4,sub 6,Every Day,65,Pop
+FINNEAS,Blood Harmony (Deluxe),Break My Heart Again,7gGBgh0bVxHPgZjA505bo9,0.402,0.151,4,-14.228,0,0.04,0,0.0941,0.489,144.069,238013,4,sub 6,Every Day,70,Pop
+Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4,sub 8,Multiple Times a day,97,Latin
+Glass Animals,Dreamland,It’s All So Incredibly Loud,7jbDqjzkpjfUytnqG6zxO3,0.394,0.278,1,-13.28,0,0.033,0.169,0.0689,0.121,106.989,259060,4,sub 8,Every Day,56,"Pop, Rock"
+Zach Bryan,Summertime Blues,Quittin' Time,50Emgupm363qIrYBe20FR3,0.557,0.725,0,-5.79,0,0.0388,9.21e-06,0.217,0.54,143.34,220885,4,sub 8,Every Day,70,Country
+Oceans Ate Alaska,Nova,New Dawn,3is1uaaKRTysn7zqCSMslN,0.446,0.95,1,-6.006,1,0.1,0.179,0.19,0.158,89.926,109600,3,sub 9,Every Day,32,"Metal, Rock"
+Hoodie Allen,All American,No Interruption,2yJVeT8cP1zstJxRP7Nlv8,0.497,0.706,1,-6.455,1,0.0667,0,0.224,0.55,103.0,215241,4,sub 9,Every Day,61,Hip Hop
+Logic,Everybody,1-800-273-8255,5tz69p7tJuGPeMGwNTxYuV,0.62,0.574,5,-7.788,0,0.0479,0,0.19,0.357,100.023,250173,4,sub 9,3+ a week,77,"R&B, Pop, Hip Hop"
+Rishloo,Living as Ghosts With Buildings as Teeth,Dark Charade,0llT9QWibKuIHBX3jGV85L,0.292,0.821,10,-6.109,0,0.0704,0.0461,0.111,0.223,112.765,646000,4,sub 10,3+ a week,27,Metal
+Dvne,Etemen Ænka,Satuya,4qv2TvVMfpRvHf0GwnoOmO,0.19,0.735,10,-10.308,0,0.0591,0.772,0.105,0.119,125.951,666627,4,sub 10,3+ a week,19,Metal
+Dvne,Omega Severer,Of Blade and Carapace,0CtTvQiWd0BnBSKgAA47VG,0.143,0.928,10,-7.099,0,0.0654,0.322,0.19,0.205,145.193,432187,4,sub 10,3+ a week,8,Metal
+KB,10K,10K,5G2g7titQVbMK8jjRPWWr6,0.817,0.717,6,-5.345,1,0.157,0,0.0866,0.713,140.034,196132,4,sub 11,Every Day,49,Hip Hop
+Michael Jackson,Thriller 25 Super Deluxe Edition,Billie Jean,5ChkMS8OtdzJeqyybCc9R5,0.92,0.654,11,-3.051,0,0.0401,0.0158,0.0359,0.847,117.046,293827,4,sub 11,Every Day,84,"Pop, R&B"
+Taco,After Eight,Puttin' on the Ritz,1taGkdO3DQsNRIQrarhVvc,0.798,0.292,0,-17.112,1,0.0777,0.00101,0.185,0.812,98.653,281160,4,sub 11,3+ a week,60,
+Vampire Weekend,Contra,Diplomat's Son,0Dx352kZFiXR1NlcEMDJZx,0.504,0.815,6,-6.967,1,0.332,0.0513,0.0838,0.842,193.966,361373,4,sub 12,Multiple Times a day,46,Rock
+Fall Out Boy,Save Rock And Roll,My Songs Know What You Did In The Dark (Light Em Up),7s0lDK7y3XLmI7tcsRAbW0,0.558,0.924,9,-4.341,0,0.064,3.32e-06,0.537,0.567,151.99,186827,4,sub 12,Multiple Times a day,64,Rock
+Green Day,21st Century Breakdown,21 Guns,64yrDBpcdwEdNY9loyEGbX,0.268,0.742,5,-4.939,1,0.0355,0,0.626,0.416,159.779,321093,4,sub 12,Multiple Times a day,74,Rock
+Neutral Milk Hotel,In the Aeroplane Over the Sea,Two-Headed Boy Pt. 2,4gD68gReo8iXcV9FeRTyQL,0.446,0.366,8,-7.158,1,0.0264,0,0.136,0.131,91.19,313973,3,sub 13,Multiple Times a day,47,"Rock, Folk/Acoustic"
+"Black Country, New Road",Ants From Up There,The Place Where He Inserted the Blade,3k2kIiJqUiIP49iUcOLpWT,0.376,0.451,11,-8.276,1,0.0327,4.13e-05,0.128,0.164,123.344,433360,3,sub 13,Every Day,56,"Pop, Rock"
+Car Seat Headrest,Twin Fantasy,Nervous Young Inhumans,4HfZE4MBRoOpjIbAD4BUa6,0.485,0.32,6,-10.791,0,0.0353,0.0962,0.419,0.335,134.032,325741,4,sub 13,Every Day,48,Rock
+Soul Enema,Of Clans and Clones and Clowns,Omon Ra,6iMSlp5TJo0LiL7wwJzR6L,0.271,0.851,9,-4.688,0,0.0728,0.0125,0.5,0.588,136.232,422053,4,sub 14,once a week,2,Metal
+Ruby My Dear,Brame,Croque Monsieur À Disneyland,0P3MMzrqEj24W1zcC6kNie,0.673,0.879,0,-5.996,1,0.106,0.349,0.0907,0.51,109.938,302727,3,sub 14,3+ a week,27,"Hip Hop, Dance/Electronic"
+Steely Dan,Aja,Josie,4i74K8KnsOQy8mC1cQ24NL,0.741,0.399,4,-11.207,0,0.0406,0.000359,0.0762,0.602,121.827,270760,4,sub 14,once a week,52,"Rock, Country"
+Fee Lion,Blood Sisters Remixed,Blood Sisters - Kontravoid Remix,7prMmVV4gWntAgMDzCxpVc,0.803,0.936,1,-6.176,1,0.0436,0.856,0.0974,0.186,120.004,324350,4,sub 15,once a week,30,"Rock, Pop"
+Austra,Feel It Break,Beat And The Pulse,5hyEQ6BNYKYrsRNiUxrXT4,0.631,0.801,1,-9.839,1,0.0534,0.582,0.17,0.424,99.992,295680,4,sub 15,once a week,39,"Rock, Pop, Dance/Electronic, Folk/Acoustic"
+Constant Smiles,John Waters,Restlessness (I Don't Sleep Well),5ZksQGE7qt0QghOcO2QhuH,0.557,0.522,1,-11.778,1,0.0287,0.908,0.103,0.196,107.667,239437,4,sub 15,once a week,3,Folk/Acoustic
+Wolfgang Amadeus Mozart,"Mozart: Piano Concertos, Vol. 6","Piano Concerto No. 21 in C Major, K. 467: II. Andante",429GaRIWKJ3EU1GAQPbLcr,0.137,0.0311,5,-28.208,1,0.0381,0.972,0.0908,0.063,179.223,433667,3,sub 16,3+ a week,61,Classical
+Ludwig van Beethoven,Beethoven's 5th,Third & Fourth Movement: Allegro,22ztKvRqV98RzmqEZRUYqf,0.328,0.126,8,-22.243,1,0.0446,0.726,0.105,0.142,124.762,981484,3,sub 16,once a week,2,Classical
+Berliner Philharmoniker,Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra,Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Introduction,1tETD10MgBqYpqjlFdgH2W,0.156,0.0403,7,-27.411,1,0.0451,0.972,0.0674,0.037,68.971,198453,3,sub 16,once a week,28,Classical
+Various Artists,Sous les jupes des filles (Original Motion Picture Soundtrack),Don't Be So Shy - Work in Progress,21mAUOr6lwjmewS6yxxF2P,0.429,0.182,8,-12.43,0,0.0861,0,0.115,0.298,86.504,182117,4,sub 17,3+ a week,39,Pop
+Egotrippi,20 Suosikkia,Matkustaja,5esJb63Nbi1LeG0v4NyKTt,0.488,0.615,9,-4.377,1,0.0295,0,0.208,0.686,130.05,241320,4,sub 17,3+ a week,53,"Pop, World/Traditional"
+Nena,Feuer und Flamme,"Irgendwie, Irgendwo, Irgendwann - Special 12"" Dance Mix",61OMeme3atDikStS4QxGIE,0.352,0.604,4,-12.634,0,0.04,0.00213,0.208,0.465,202.932,437160,4,sub 17,3+ a week,51,"Pop, Rock"
+Caravan Palace,<|º_º|>,Comics,6mW6lEKUw4or42IEwBCXJe,0.552,0.835,1,-5.698,1,0.0796,0.0285,0.417,0.564,89.999,212597,4,sub 18,Multiple Times a day,53,"Easy listening, Dance/Electronic"
+Gorillaz,Plastic Beach,Rhinestone Eyes,1foMv2HQwfQ2vntFf9HFeG,0.676,0.703,8,-5.815,0,0.0302,0.000687,0.0463,0.852,92.761,200173,4,sub 18,3+ a week,79,Hip Hop
+Glass Animals,How To Be A Human Being,Take A Slice,37adYGaYaAWTGhBaOzX4Fh,0.623,0.661,9,-7.0,1,0.1,0.000229,0.267,0.63,151.97,229718,4,sub 18,3+ a week,69,"Pop, Rock"
+Jazmin Bean,Worldwide Torture,War Zone Urchin,5A3uPfOAuxTIXU9QFFsKqp,0.437,0.755,7,-5.455,0,0.057,0,0.15,0.207,99.817,244177,4,sub 19,3+ a week,44,"Rock, Hip Hop"
+Violet Chachki,Bettie,Bettie,4nYLbO2YHP0VXMoM9nlsZF,0.425,0.987,1,-3.548,1,0.0722,0.741,0.389,0.456,186.007,189360,4,sub 19,once a week,29,Pop
+Alice Glass,PREY//IV,FAIR GAME,1jnkNenBPVSYumGDYfwcYs,0.496,0.751,10,-7.307,0,0.0877,0.457,0.252,0.255,130.954,166840,4,sub 19,3+ a week,32,Pop
+Uli Jon Roth,Scorpions Revisited,The Sails of Charon,5MOwtuzKqvTxminQme9n1P,0.299,0.945,4,-2.879,1,0.0771,0.251,0.294,0.327,111.522,531413,4,sub 20,3+ a week,36,Metal
+Arctic Monkeys,Tranquility Base Hotel & Casino,Four Out Of Five,3nhzPKCm2yqGmgEhdAg19u,0.601,0.863,0,-4.31,1,0.0685,0,0.0717,0.676,130.189,312347,4,sub 20,3+ a week,59,"Blues, Rock"
+Guns N' Roses,Use Your Illusion I,November Rain,3YRCqOhFifThpSRFJ1VWFM,0.294,0.641,11,-9.316,1,0.0291,0.22,0.112,0.226,79.759,536067,4,sub 20,3+ a week,80,"Metal, Rock"
+Megadeth,Rust In Peace Live,Tornado Of Souls,6JHI8qT3OaBawJVFh3GHbF,0.279,0.982,7,-4.046,1,0.179,0.0696,0.945,0.402,97.847,328693,4,sub 21,3+ a week,17,"Rock, Metal"
+Amigo the Devil,Volume 1,Hell and You,3banchOoe2giyRK0jaO1c7,0.718,0.327,9,-7.602,0,0.0292,2.05e-05,0.088,0.507,82.582,201000,4,sub 21,once a week,57,Country
+Metallica,...And Justice for All (Remastered),Dyers Eve (Remastered),4bAQzjDk9ONZ8gvm5YKEGE,0.404,0.948,6,-7.252,0,0.0604,0.0405,0.0773,0.701,96.789,313045,4,sub 21,Every Day,48,"Rock, Metal"
